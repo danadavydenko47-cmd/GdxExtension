@@ -1,0 +1,8 @@
+{
+    "gd": { "android": "2.2074", "win": "2.2074" },
+    "id": "dnl.gdx_extension",
+    "name": "GDX Extension",
+    "version": "v3.1.0",
+    "developer": "dnl8272",
+    "description": "Simplified mod manager: built-in catalog, .gdx/.geode support, owner panel"
+}
